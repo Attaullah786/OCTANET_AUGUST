@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background: pink
+}
+
+.task-list {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.task {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.task-title {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.task-details {
+  margin: 5px 0;
+  font-size: 0.9em;
+  color: #666;
+}
+/* Hero content styles */
+.hero-content {
+    max-width: 300px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 0 auto;
+    background: brown;
+}
